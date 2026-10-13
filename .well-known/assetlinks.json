@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.molinasoluciones.negociovm",
+        "sha256_cert_fingerprints": ["4E:E0:A2:C3:B1:63:D5:D0:98:F4:8A:47:31:80:88:1A:AF:22:22:12:88:6E:07:F0:40:1E:B7:03:9F:21:47:B9"]
+      }
+    }]
